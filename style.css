@@ -16,7 +16,9 @@ body{
     border-radius:50%
   }
 
-
+.about {
+  background: red;
+}
 
   .dark{
     color:white;
